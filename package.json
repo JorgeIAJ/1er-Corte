@@ -1,0 +1,15 @@
+{
+  "name": "1er-corte",
+  "version": "1.0.0",
+  "description": "En este repositorio se encuentran anexadas la primera actividad planteada al Rubrica Corte 1.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
