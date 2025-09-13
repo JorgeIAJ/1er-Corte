@@ -1,2 +1,2 @@
-# 1er-Corte
-En este repositorio se encuentran anexadas las diferentes actividades, asi como rubrica asignada por el profesor
+# 1ra_Actividad
+En este repositorio se encuentran anexadas la primera actividad planteada al Rubrica Corte 1.
